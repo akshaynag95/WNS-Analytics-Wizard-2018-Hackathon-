@@ -1,1 +1,1 @@
-# WNS-Analytics-Wizard-2018-Hackathon-
+# WNS-Analytics-Wizard-2018-Hackathon
